@@ -1,4 +1,4 @@
-# listofprojectsishoulddo
+# list of projects I should do
 
 [ ] Connect 4 
 
